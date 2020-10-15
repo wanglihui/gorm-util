@@ -1,4 +1,4 @@
-module gitlab.yc345.tv/lihui/util
+module github.com/wanglihui/gorm-util
 
 go 1.14
 
