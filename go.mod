@@ -1,4 +1,4 @@
-module gitlab.yc345.tv/teacher/backend/teacher-util
+module gitlab.yc345.tv/lihui/util
 
 go 1.14
 
